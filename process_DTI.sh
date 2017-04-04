@@ -1,6 +1,10 @@
 #!/bin/bash
 # DTI PREPROCESSING SCRIPT by Ikbeom Jang
 # Feb 13, 2017
+# 1. Brain extraction
+# 2. Eddy current & Motion correction
+# 3. DTI estimation
+#
 # Should run this script where it contains all subject folders (CIC_Pre*, ISDH_Pre*)
 
 
