@@ -2,7 +2,7 @@
 
 This section is for those who deal with Diffusion weighted MR images.
 
-DTI preprocess (bash script) is based on FSL. Please install FSL (https://fsl.fmrib.ox.ac.uk/fsldownloads/fsldownloadmain.html) in order to use the 'process_DTI.sh'.
+DTI preprocess (bash script) requires FSL libraries. Please download and install FSL (https://fsl.fmrib.ox.ac.uk/fsldownloads/fsldownloadmain.html).
 
 DTI analysis (matlab script) requires a library to read and write NIFTI files. You can download the library from https://www.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image .
 
